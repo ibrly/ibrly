@@ -90,12 +90,3 @@ Agile • Git • GraphQL • Design Patterns • Performance Optimization
 * 💻 GitHub: [https://github.com/ibrly](https://github.com/ibrly)
 * 🧑‍💼 Upwork: [https://www.upwork.com/freelancers/~01ec6e4013cfaca63f](https://www.upwork.com/freelancers/~01ec6e4013cfaca63f)
 * 📸 Instagram: [https://instagram.com/iibrly](https://instagram.com/iibrly)
-
----
-
-If you want, I can now:
-
-* Make it more **minimal & elite**
-* Add **badges and tech icons**
-* Position you as **Senior / Staff level**
-* Or optimize it specifically for recruiters**
