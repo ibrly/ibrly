@@ -59,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrly&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrly&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrly&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrly&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrly&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=ibrly&theme=radical&hide_border=true" />
 </p>
 
 ---
