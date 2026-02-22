@@ -1,7 +1,3 @@
-🔥 Full Stack Engineer building scalable commerce & AI platforms
-
----
-
 # 👋 Hi, I'm Ibrahim Ahmed
 
 Full Stack Engineer specializing in **React, Next.js, TypeScript, and Node.js**, building scalable enterprise applications, headless commerce platforms, and cloud-native systems.
