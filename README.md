@@ -36,6 +36,7 @@ const ibrly = {
 
   shipped: [
     "commercetools — composable commerce platform",
+    "Mars — M&M'S (mms.com), frontend tech lead",
     "DEPOT / Gries Deco — headless storefronts",
     "Elevate AB — A/B testing for Shopify",
   ],
