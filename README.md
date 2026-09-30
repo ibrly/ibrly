@@ -1,122 +1,294 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Ahmed</h1>
-<h3 align="center">Senior Full Stack Engineer | React • Next.js • Node.js • Cloud-Native • AI-Native Engineering</h3>
+# `> whoami`
 
-<p align="center">
-  <a href="https://github.com/ibrly">
-    <img src="https://komarev.com/ghpvc/?username=ibrly&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+<div align="center">
 
----
+```text
+██╗ ██████╗  ██████╗  ██╗      ██╗   ██╗
+██║ ██╔══██╗ ██╔══██╗ ██║      ╚██╗ ██╔╝
+██║ ██████╔╝ ██████╔╝ ██║       ╚████╔╝
+██║ ██╔══██╗ ██╔══██╗ ██║        ╚██╔╝
+██║ ██████╔╝ ██║  ██║ ███████╗    ██║
+╚═╝ ╚═════╝  ╚═╝  ╚═╝ ╚══════╝    ╚═╝
+```
 
-## 🚀 About Me
+### SENIOR FULL STACK ENGINEER
 
-- 🔭 Building scalable enterprise & headless commerce platforms  
-- 🤖 Shipping with AI agents every day — Claude Code, Codex, custom skills & MCP integrations  
-- 🔌 Designing MCP servers that expose platform capabilities to AI agents safely  
-- ⚡ Focused on performance optimization & clean architecture  
-- 🏢 Multi-tenant SaaS architecture — Postgres RLS, monorepos, event-driven workers  
-- ☁️ Cloud-native engineering (AWS, Vercel, Cloudflare, Docker, CI/CD)  
-- 🧠 Strong in frontend architecture & modular systems  
-- 🌍 Open to global opportunities  
+**Ibrahim Ahmed. I build commerce platforms and ship with AI agents.**
 
----
+`Headless Commerce` · `Next.js` · `Node.js` · `Agentic Engineering` · `MCP` · `Cloud-Native`
 
-## 🤖 AI Engineering
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma_MCP-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&center=true&vCenter=true&width=750&lines=Composable+commerce%2C+production-grade.;Claude+Code+%2B+Codex+as+daily+pair-programmers.;MCP+servers+that+agents+can+actually+trust.;Core+Web+Vitals+are+a+feature.;Plan.+Build.+Verify.+Ship.)
 
-- 🧑‍✈️ **Agentic development** — Claude Code & OpenAI Codex as daily pair-programmers, from planning and implementation to review and debugging  
-- 🧠 **Context engineering** — `AGENTS.md` / `CLAUDE.md`, decision logs and handoff docs that keep agents aligned with a codebase's rules and definition of done  
-- 🛠️ **Custom agents & skills** — authoring subagents, skills and slash commands that turn repeatable engineering workflows (releases, hotfixes, PR chores) into one-line commands  
-- 🕸️ **Multi-agent orchestration** — parallel subagents, background workers and cross-model second opinions (Claude ↔ Codex)  
-- 🔌 **Model Context Protocol** — building MCP servers & gateways with authentication, policy-based authorization, risk-tiered tools and audit logging  
-- 🔗 **MCP-connected workflow** — GitHub, Jira & Confluence, Azure DevOps, Figma, commercetools and PostHog wired straight into the agent loop  
-- 🎨 **Design ↔ code** — Figma MCP for design-to-code and code-to-design round-trips  
-- 🛡️ **Guardrails** — permission policies, allow/deny rules and secret hygiene so agents move fast without breaking things  
-- ✅ **Verified output** — agent changes go through types, tests, E2E runs and review before they ship  
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+## `01 // THE ENGINEER`
 
-### 👨‍💻 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind,sass,redux" />
-</p>
+```ts
+const ibrly = {
+  name: "Ibrahim Ahmed",
+  role: "Senior Full Stack Engineer",
+  location: "Cairo, Egypt 🇪🇬",
+  site: "https://ibrly.dev",
 
-### ⚙ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,django,python,php,laravel" />
-</p>
+  shipped: [
+    "commercetools — composable commerce platform",
+    "DEPOT / Gries Deco — headless storefronts",
+    "Elevate AB — A/B testing for Shopify",
+  ],
 
-### 🗄 Databases & ORMs
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" />
-</p>
+  focus: [
+    "Headless & Composable Commerce",
+    "Frontend Architecture",
+    "Multi-tenant SaaS",
+    "Agentic Development & MCP",
+    "Performance Engineering",
+  ],
 
-### ☁ DevOps & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,cloudflare,linux,git,github,githubactions,gitlab,pnpm" />
-</p>
+  philosophy: {
+    architecture: "Boundaries first, frameworks second.",
+    code: "Types are documentation that compiles.",
+    performance: "Lighthouse is a test, not a vanity metric.",
+    ai: "Agents write code. Humans own it.",
+    shipping: "Verified > fast > clever.",
+  },
 
-### 🧪 Testing & Build
-<p>
-<img src="https://skillicons.dev/icons?i=jest,vitest,cypress,webpack,vite" />
-</p>
+  status: "BUILDING",
+} as const;
+```
 
-### 🧰 Also Worked With
-<p>
-<img src="https://skillicons.dev/icons?i=figma,sentry,postman,flutter,dart,c,arduino" />
-</p>
+I work **end-to-end**, from Postgres schemas and event-driven workers to the storefront pixel a shopper taps.
 
-<p>
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
+The work I like most mixes **commerce at scale**, **frontend architecture**, and **AI-native engineering**.
 
 ---
 
-## 🛒 Enterprise & Commerce Exposure
+## `02 // SYSTEM LOADOUT`
 
-- commercetools  
-- M&M'S  
-- DEPOT Online  
-- Gries Deco Company  
-- Aumico  
-- Ocucon  
-- NFQ  
-- Vocacy  
+<div align="center">
+
+### ⚡ CORE
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vuedotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+
+### ⚙️ BACKEND
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql)
+![Apollo](https://img.shields.io/badge/Apollo_Federation-000?style=for-the-badge&logo=apollographql)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![BullMQ](https://img.shields.io/badge/BullMQ-000?style=for-the-badge&logo=redis)
+
+### 🛒 COMMERCE
+
+![commercetools](https://img.shields.io/badge/commercetools-000?style=for-the-badge&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify_Hydrogen-000?style=for-the-badge&logo=shopify)
+![Scayle](https://img.shields.io/badge/Scayle-000?style=for-the-badge)
+![Klarna](https://img.shields.io/badge/Klarna-000?style=for-the-badge&logo=klarna)
+
+### 🤖 AI / AGENTS
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-000?style=for-the-badge&logo=claude&logoColor=D97757)
+![Anthropic](https://img.shields.io/badge/Anthropic_SDK-000?style=for-the-badge&logo=anthropic)
+![Codex](https://img.shields.io/badge/Codex-000?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000?style=for-the-badge&logo=modelcontextprotocol)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000?style=for-the-badge&logo=vercel)
+
+### 🗄️ DATA
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Drizzle](https://img.shields.io/badge/Drizzle-000?style=for-the-badge&logo=drizzle)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-000?style=for-the-badge&logo=clickhouse)
+
+### ☁️ INFRASTRUCTURE
+
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=cloudflare)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
+![Turborepo](https://img.shields.io/badge/Turborepo-000?style=for-the-badge&logo=turborepo)
+
+### 🧪 QUALITY
+
+![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=playwright)
+![Vitest](https://img.shields.io/badge/Vitest-000?style=for-the-badge&logo=vitest)
+![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest)
+![Storybook](https://img.shields.io/badge/Storybook-000?style=for-the-badge&logo=storybook)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-000?style=for-the-badge&logo=lighthouse)
+
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+## `03 // HOW I SHIP WITH AGENTS`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ibrly&theme=radical&hide_border=true" />
-</p>
+```mermaid
+flowchart LR
+    A["📋 Context<br/>CLAUDE.md · AGENTS.md"] --> B["🧠 Plan"]
+    B --> C["🤖 Agents build<br/>subagents · skills · MCP"]
+    C --> D["🔍 Cross-review<br/>Claude ↔ Codex"]
+    D --> E["🧪 Verify<br/>types · tests · E2E"]
+    E --> F["🚀 Ship"]
+    F --> G["📊 Observe"]
+    G --> A
+```
+
+> **Agents move fast. Guardrails keep that speed from turning into production incidents.**
+
+What that looks like day to day:
+
+* 🧠 **Context engineering**: decision logs and handoff docs that keep agents aligned with the codebase.
+* 🛠️ **Custom skills & subagents**: releases, hotfixes, and PR chores reduced to one-line commands.
+* 🔌 **MCP servers**: auth, policy-based authorization, risk-tiered tools, and audit logs.
+* 🔗 **Wired-in tools**: GitHub, Jira, Azure DevOps, Figma, commercetools, and PostHog available inside the agent loop.
+* 🛡️ **Guardrails**: allow/deny rules, permission policies, and secret hygiene.
+* ✅ **Verified output**: nothing merges until types, tests, E2E, and review pass.
 
 ---
 
-## 🌐 Connect with Me
+## `04 // CURRENT OPERATING MODE`
 
-<p align="left">
-<a href="https://linkedin.com/in/ibrly" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-<a href="https://github.com/ibrly" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="30" /></a>
-<a href="https://instagram.com/iibrly" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
-</p>
+```yaml
+engineer:
+  level: senior
+
+  mode:
+    - BUILD
+    - VERIFY
+    - SHIP
+    - REPEAT
+
+  currently_exploring:
+    - MCP gateways & agent authorization
+    - Multi-agent orchestration
+    - Multi-tenant SaaS (Postgres RLS)
+    - Event-driven workers
+    - Self-hosted, first-party analytics
+    - React Server Components at scale
+
+  optimization_target:
+    LCP: ↓
+    INP: ↓
+    CLS: ↓
+    bundle_size: ↓
+    developer_experience: ↑
+    conversion_rate: ↑↑↑
+```
+
+---
+
+## `05 // THE STACK IS NOT THE SKILL`
+
+Angular gave way to React. REST gained GraphQL. Hand-written code now has agent-written code alongside it.
+
+The part that stays the same:
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   UNDERSTAND → DESIGN → BUILD → VERIFY → OPERATE     │
+│                                                      │
+│     ...and review every line an agent writes.        │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+## `06 // ENGINEERING DNA`
+
+```text
+╭─────────────────────────────────────────────────────────╮
+│                                                         │
+│   FRONTEND        ████████████████████   ARCHITECTURE   │
+│   COMMERCE        ███████████████████░   HEADLESS       │
+│   BACKEND         ██████████████████░░   APIs & WORKERS │
+│   AI / AGENTS     ███████████████████░   MCP & SKILLS   │
+│   PERFORMANCE     ███████████████████░   CORE VITALS    │
+│   DEVOPS          ████████████████░░░░   SHIPPING       │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
+```
+
+---
+
+## `07 // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrly&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrly&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ibrly&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=30363D" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrly&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## `08 // WHEN THE AGENT GOES ROGUE`
+
+```bash
+$ claude --dangerously-skip-permissions
+[DENIED] policy: ibrly/guardrails.json
+```
+
+```bash
+$ git log --oneline -3
+
+5ae2204 fix: agent's fix
+b266811 fix: fix for agent's fix
+96d52c2 revert: all of the above, wrote it by hand ☕
+```
+
+---
+
+## `09 // CONNECT`
+
+<div align="center">
+
+### Want to talk commerce, agents, or frontend architecture?
+
+**Happy to trade notes.**
+
+[![Website](https://img.shields.io/badge/ibrly.dev-VISIT-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibrly.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-ibrly-181717?style=for-the-badge&logo=github)](https://github.com/ibrly)
+[![Instagram](https://img.shields.io/badge/Instagram-iibrly-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iibrly)
+
+<br>
+
+```text
+while (alive) {
+    plan();
+    delegate();
+    verify();
+    ship();
+}
+```
+
+### `SYSTEM STATUS: ONLINE 🟢`
+
+<sub>Pair-programmed with Claude and fueled by coffee.</sub>
+
+</div>
