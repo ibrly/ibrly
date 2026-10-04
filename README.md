@@ -236,9 +236,6 @@ The part that stays the same:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrly&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ibrly&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=30363D" />
 
 <br><br>
 
