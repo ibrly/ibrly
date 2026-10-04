@@ -242,7 +242,7 @@ The part that stays the same:
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrly&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibrlY&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
