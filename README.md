@@ -238,9 +238,6 @@ The part that stays the same:
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ibrly />
-<br><br>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ibrlY&&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=30363D")](https://git.io/streak-stats)
 
 </div>
