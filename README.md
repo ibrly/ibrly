@@ -272,7 +272,7 @@ $ gh search prs --author ibrly --merged
 | ✅ merged | [vueuse/vueuse](https://github.com/vueuse/vueuse) | [feat(useIdle): update lastActive when `reset(true)` is called](https://github.com/vueuse/vueuse/pull/5658) |
 | 🔍 in review | [unjs/nypm](https://github.com/unjs/nypm) | [fix(dedupeDependencies): do not remove lockfiles in dry mode](https://github.com/unjs/nypm/pull/272) |
 | 🔍 in review | [unjs/nypm](https://github.com/unjs/nypm) | [fix(cli): pass `--recreateLockFile` through to `dedupeDependencies`](https://github.com/unjs/nypm/pull/274) |
-| 🔍 in review | [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) | [\[All-kit\]: Resolve tsconfig paths against the config that declares them](https://github.com/drizzle-team/drizzle-orm/pull/6549) |
+| 🔍 in review | [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) | [\[All-kit\]: Resolve tsconfig paths against the config that declares them](https://github.com/drizzle-team/drizzle-orm/pull/6569) |
 | 🔍 in review | [typeorm/typeorm](https://github.com/typeorm/typeorm) | [fix: keep the @OneToOne unique constraint name when adding the join column](https://github.com/typeorm/typeorm/pull/12956) |
 
 ---
